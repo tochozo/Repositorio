@@ -1,6 +1,8 @@
 <head>
-	<link href = "text/css">
+	<style>
+		h2{color:blue;}
+	</style>
 </head>
 Repositorio
 ===========
-<h2 style = "color:red;">Esto es una modificacion al archivo readme</h2>
+<h2>Esto es una modificacion al archivo readme</h2>
