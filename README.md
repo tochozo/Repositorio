@@ -1,8 +1,14 @@
+<!DOCTYPE HTML>
+<html>
 <head>
 	<style>
-		h2{color:blue;}
+		h1 {color:red;}
+		h2 {color:yellow;}
 	</style>
 </head>
-Repositorio
-===========
-<h2>Esto es una modificacion al archivo readme</h2>
+<body>
+	<h1>Repositorio<h1>
+	===========
+	<h2>Esto es una modificacion al archivo readme</h2>
+</body>
+</html>
