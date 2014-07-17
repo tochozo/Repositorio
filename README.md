@@ -1,14 +1,2 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-	<style>
-		h1 {color:red;}
-		h2 {color:yellow;}
-	</style>
-</head>
-<body>
-	<h1>Repositorio<h1>
-	===========
-	<h2>Esto es una modificacion al archivo readme</h2>
-</body>
-</html>
+Archivo readme de un brach (rama)
+1111111111111111111111111111111
