@@ -1,3 +1,3 @@
 Repositorio
 ===========
-<h1>Esto es una modificacion al archivo readme</h1>
+<h2 style = "color: red">Esto es una modificacion al archivo readme</h2>
